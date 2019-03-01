@@ -10,7 +10,7 @@ num_trials = 1;
 
 num_resamples = 1; % number of times to resample using HMC
 
-num_gd_steps = 2; % number of gradient descent steps to perform
+num_gd_steps = 25; % number of gradient descent steps to perform
 
 compute_posteriors = 1;
 

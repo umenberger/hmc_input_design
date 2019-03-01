@@ -14,7 +14,7 @@ clc
 
 % set to 0 to use data from the paper
 % set to 1 to generate a new example
-regenerate_data = 1; 
+regenerate_data = 0; 
 
 if regenerate_data
     optimize_input; % note: this can be quite slow
